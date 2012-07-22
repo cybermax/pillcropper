@@ -3,7 +3,7 @@ pillcropper
 
 pillcropper, Licence GPLv3, see LICENCE.txt
 
-This crops Pill images using OPENCV.
+This crops Pill images using OpenCV.
 
 See the images at http://pillbox.oddb.org
 
